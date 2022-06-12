@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactClone/static/css/main.c2acf240.css",
+    "main.js": "/reactClone/static/js/main.78684877.js",
+    "index.html": "/reactClone/index.html",
+    "main.c2acf240.css.map": "/reactClone/static/css/main.c2acf240.css.map",
+    "main.78684877.js.map": "/reactClone/static/js/main.78684877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2acf240.css",
+    "static/js/main.78684877.js"
+  ]
+}
